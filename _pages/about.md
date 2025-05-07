@@ -29,9 +29,12 @@ My current research interests focus on AI security and safety, as well as vision
 
 - *Apr. 2025*: &nbsp;🎉🎉🎉 Happy to announce that our paper [*Improve Fluency Of Neural Machine Translation Using Large Language Models*]() has been accepted to **MT Summit 2025**. Many thanks to my collaborators for their great contributions!
 
+- *Nov. 2024*: &nbsp;🎉🎉🎉 Happy to announce that our paper [Protective Perturbations against Unauthorized Data Usage in Diffusion-based Image Generation](https://arxiv.org/pdf/2412.18791) has been accepted to **CBD 2024**. Many thanks to my collaborators for their great contributions!
+
+- *Sept. 2024*: &nbsp;🎉🎉🎉 Happy to announce that our paper [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf) has been accepted to **WISE 2024**. Many thanks to my collaborators for their great contributions!
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/cat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,6 +47,19 @@ My current research interests focus on AI security and safety, as well as vision
 We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- **\[MT Summit 2025\]** [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
+
+**Sen Peng**, Yufei Chen, Cong Wang, Xiaohua Jia
+
+[**Project Page**](https://github.com/senp98/wdm) <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:ufrVoPGSRksC'></span></strong>
+We introduce WDM, a prompt-free watermarking framework for diffusion models that preserves imperceptibility by jointly learning a watermark diffusion process without altering generation quality.
+</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
@@ -65,12 +81,11 @@ We introduce WDM, a prompt-free watermarking framework for diffusion models that
 
 **Sen Peng**, Yufei Chen, Jie Xu, Zizhuo Chen, Cong Wang, Xiaohua Jia
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-We present a comprehensive survey of the existing Deep Neural Network Intellectual Property protection approaches. 
+<strong><span class='show_paper_citations' data='7jRjatEAAAAJ:W7OEmFMy1HYC'></span></strong>
+We provide a comprehensive survey of emerging techniques for protecting deep neural network intellectual property, including watermarking, fingerprinting, authentication, and inference perturbation, and highlight key challenges and future directions.
 </div>
 </div>
 
-- [AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556/), Jie Xu, Qingyuan Xie, **Sen Peng**, Cong Wang, Xiaohua Jia, **IEEE Transactions on Parallel and Distributed Systems**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
