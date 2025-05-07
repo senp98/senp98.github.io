@@ -40,47 +40,35 @@ My current research interests focus on AI security and safety, as well as vision
 
 **Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
 
-[**Project Page**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:UebtZRa9Y70C'></span></strong>
 We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
+**\[WISE 2024\]** [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
 
 **Sen Peng**, Yufei Chen, Cong Wang, Xiaohua Jia
 
-[**Project**](https://arxiv.org/abs/2306.03436) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose WDM, a novel watermarking solution for diffusion models without imprinting the watermark during task generation.
+[**Project Page**](https://github.com/senp98/wdm) <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:ufrVoPGSRksC'></span></strong>
+We introduce WDM, a prompt-free watermarking framework for diffusion models that preserves imperceptibility by jointly learning a watermark diffusion process without altering generation quality.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW Journal</div><img src='images/ip_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ip_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Intellectual Property Protection of DNN Models](https://link.springer.com/content/pdf/10.1007/s11280-022-01113-3.pdf)
+**\[WWW Journal\]** [Intellectual Property Protection of DNN Models](https://link.springer.com/content/pdf/10.1007/s11280-022-01113-3.pdf)
 
 **Sen Peng**, Yufei Chen, Jie Xu, Zizhuo Chen, Cong Wang, Xiaohua Jia
 
-[**Project**](https://link.springer.com/article/10.1007/s11280-022-01113-3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We present a comprehensive survey of the existing Deep Neural Network Intellectual Property protection approaches. 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We present a comprehensive survey of the existing Deep Neural Network Intellectual Property protection approaches. 
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW Journal</div><img src='images/ip_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Intellectual Property Protection of DNN Models](https://link.springer.com/content/pdf/10.1007/s11280-022-01113-3.pdf)
-
-**Sen Peng**, Yufei Chen, Jie Xu, Zizhuo Chen, Cong Wang, Xiaohua Jia
-
-[**Project**](https://link.springer.com/article/10.1007/s11280-022-01113-3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We present a comprehensive survey of the existing Deep Neural Network Intellectual Property protection approaches. 
-</div>
-</div> -->
 
 - [AdaptChain: Adaptive Scaling Blockchain With Transaction Deduplication](https://ieeexplore.ieee.org/abstract/document/10102556/), Jie Xu, Qingyuan Xie, **Sen Peng**, Cong Wang, Xiaohua Jia, **IEEE Transactions on Parallel and Distributed Systems**
 
