@@ -33,15 +33,15 @@ My current research interests focus on AI security and safety, as well as vision
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/cat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/cat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](https://arxiv.org/pdf/2502.07225)
+**\[ICML 2025\]** [CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](https://arxiv.org/pdf/2502.07225)
 
 **Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
 
-[**Project**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
+[**Project Page**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
 </div>
 </div>
 
