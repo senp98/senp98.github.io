@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sen's Homepage"
-description              : "Ph.D. student in the Department of Computer Science, City University of Hong Kong"
+description              : "Ph.D. Student, Department of Computer Science, City University of Hong Kong""
 repository               : "senp98/senp98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/0000-0002-3204-4409"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
