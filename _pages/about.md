@@ -17,19 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a Ph.D. student from the Department of Computer Science, City University of Hong Kong, supervised by [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/).
-Before I came to CityU, I obtained by B.E. from the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), supervised by [Prof. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
-My research interests mainly include AI security & privacy issues and deep generative models.
+I am currently a Ph.D. student in the Department of Computer Science at City University of Hong Kong, under the supervision of [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/).
+Prior to joining CityU, I received my B.E. degree from the Department of Computer Science and Engineering at the Southern University of Science and Technology (SUSTech), supervised by [Prof. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
+My current research interests focus on AI security and safety, as well as vision-language models (VLMs) and vision-language-action systems (VLAs) in the domain of embodied intelligence.
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+🔥 News
+- *May 2025*: &nbsp;🎉🎉🎉 Happy to announce that our paper [*CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models*](https://arxiv.org/pdf/2502.07225) has been accepted to **ICML 2025**. Many thanks to my collaborators for their great contributions!
+
+- *Apr. 2025*: &nbsp;🎉🎉🎉 Happy to announce that our paper [*Improve Fluency Of Neural Machine Translation Using Large Language Models*]() has been accepted to **MT Summit 2025**. Many thanks to my collaborators for their great contributions!
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/wdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/cat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models](https://arxiv.org/pdf/2502.07225)
+
+**Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
+
+[**Project**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
@@ -72,9 +89,9 @@ My research interests mainly include AI security & privacy issues and deep gener
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - Current*, Ph.D. in Computer Science, City University of Hong Kong, Hong Kong.
-- *2019.06 - 2019.07*, Summer Workshop at School of Computing, National University of Singapore, Singapore.
-- *2016.09 - 2020.06*, B.E. in Computer Science and Technology, Southern University of Science and Technology, Shenzhen.
+- *Sept. 2020 - Current*, Ph.D. in Computer Science, City University of Hong Kong, Hong Kong.
+- *Jun. 2019 - Jul. 2019*, Summer Workshop at School of Computing, National University of Singapore, Singapore.
+- *Sept. 2016 - Jun. 2020*, B.E. in Computer Science and Technology, Southern University of Science and Technology, Shenzhen.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
