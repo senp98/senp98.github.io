@@ -97,13 +97,28 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.25em 0.6em;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: 0.5em;
+    left: 0.5em;
+    background-color: #1a73e8; /* Google Blue: 更加清爽醒目 */
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    font-size: 0.75em;
+    font-weight: 600;
+    border-radius: 999px;  /* 圆角 pill-style */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); /* 轻微阴影，立体感 */
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; /* 更现代、网页友好字体 */
+    z-index: 10;
+    white-space: nowrap;
 }
