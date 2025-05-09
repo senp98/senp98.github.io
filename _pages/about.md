@@ -93,7 +93,9 @@ We provide a comprehensive survey of emerging techniques for protecting deep neu
 
 # 📖 Educations
 - *Sept. 2020 - Current*, Ph.D. in Computer Science, City University of Hong Kong, Hong Kong.
+
 - *Jun. 2019 - Jul. 2019*, Summer Workshop at School of Computing, National University of Singapore, Singapore.
+
 - *Sept. 2016 - Jun. 2020*, B.E. in Computer Science and Technology, Southern University of Science and Technology, Shenzhen.
 
 <!-- # 💬 Invited Talks
