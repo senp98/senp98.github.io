@@ -43,8 +43,8 @@ My current research interests focus on AI security and safety, as well as vision
 
 **Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
 
-[**Project Page**](https://github.com/senp98/CAT) <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:UebtZRa9Y70C'></span></strong>
-We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
+[**Project Page**](https://github.com/senp98/CAT) | <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:UebtZRa9Y70C'></span></strong>
+- We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
 </div>
 </div>
 
