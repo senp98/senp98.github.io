@@ -44,7 +44,7 @@ My current research interests focus on AI security and safety, as well as vision
 **Sen Peng**, Mingyue Wang, Jianfei He, Jijia Yang, Xiaohua Jia
 
 [**Project Page**](https://github.com/senp98/CAT) | <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:UebtZRa9Y70C'></span></strong>
-- We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
+We propose Contrastive Adversarial Training (CAT) to evaluate protective perturbations in LDM customization, revealing their vulnerability by leveraging the latent representation distortion and demonstrating significant effectiveness across extensive experiments.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ We introduce WDM, a prompt-free watermarking framework for diffusion models that
 
 **Sen Peng**, Yufei Chen, Cong Wang, Xiaohua Jia
 
-[**Project Page**](https://github.com/senp98/wdm) <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:ufrVoPGSRksC'></span></strong>
+[**Project Page**](https://github.com/senp98/wdm) | <strong><span class='show_paper_citations' data='7jRjatEAAAAJ:ufrVoPGSRksC'></span></strong>
 We introduce WDM, a prompt-free watermarking framework for diffusion models that preserves imperceptibility by jointly learning a watermark diffusion process without altering generation quality.
 </div>
 </div>
