@@ -74,7 +74,7 @@ We introduce WDM, a prompt-free watermarking framework for diffusion models that
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ip_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/ip_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **\[WWW Journal\]** [Intellectual Property Protection of DNN Models](https://link.springer.com/content/pdf/10.1007/s11280-022-01113-3.pdf)
