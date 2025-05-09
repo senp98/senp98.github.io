@@ -49,10 +49,10 @@ We propose Contrastive Adversarial Training (CAT) to evaluate protective perturb
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/wdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- **\[MT Summit 2025\]** [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
+**\[MT Summit 2025\]** [Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process](https://arxiv.org/pdf/2306.03436.pdf)
 
 **Sen Peng**, Yufei Chen, Cong Wang, Xiaohua Jia
 
