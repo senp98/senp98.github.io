@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in the Department of Computer Science at City University of Hong Kong, under the supervision of [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/).
+I am currently a Ph.D. student in the Department of Computer Science at City University of Hong Kong (CityU), under the supervision of [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/).
 Prior to joining CityU, I received my B.E. degree from the Department of Computer Science and Engineering at the Southern University of Science and Technology (SUSTech), supervised by [Prof. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
-My current research interests focus on AI security and safety, as well as vision-language models (VLMs) and vision-language-action systems (VLAs) in the domain of embodied intelligence.
+My current research interests focus on AI security and safety, as well as VLMs and VLAs in the domain of embodied intelligence.
 
 
 
