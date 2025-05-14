@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install scholarly
+          pip install scholarly==1.7.11
 
       - name: Run Scholar Fetcher with ScraperAPI
         env:
