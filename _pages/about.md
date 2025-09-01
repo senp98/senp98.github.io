@@ -25,6 +25,8 @@ My current research interests focus on AI security and safety, as well as VLMs a
 
 
 # 🔥 News
+- *Aug. 2025*: &nbsp;🎉🎉🎉 Happy to announce that I successfully defended my thesis about "Attacks and Defense of Intellectual Property Protection in Diffusion Models". Many thanks to my dear supervisor, Prof.Xiaohua Jia, and all other panel members!
+- 
 - *May 2025*: &nbsp;🎉🎉🎉 Happy to announce that our paper [*CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models*](https://arxiv.org/pdf/2502.07225) has been accepted to **ICML 2025**. Many thanks to my collaborators for their great contributions!
 
 - *Apr. 2025*: &nbsp;🎉🎉🎉 Happy to announce that our paper [*Improve Fluency Of Neural Machine Translation Using Large Language Models*]() has been accepted to **MT Summit 2025**. Many thanks to my collaborators for their great contributions!
