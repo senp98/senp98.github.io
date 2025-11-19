@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sen's Homepage"
-description              : "Ph.D. Student, Department of Computer Science, City University of Hong Kong"
+title                    : "Homepage"
+description              : "Unitree Robotics"
 repository               : "senp98/senp98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Sen Peng"
   avatar           : "images/android-chrome-512x512.png"
   bio              : # "Lorem ipsum College"
-  location         : "Kowloon, Hong Kong"
+  location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7jRjatEAAAAJ&hl=zh-CN"
