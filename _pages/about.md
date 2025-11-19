@@ -33,7 +33,7 @@ I am currently an AI algorithm engineer at [**Unitree Robotics**](https://www.un
 
 
 # 📖 Education
-- **Sept. 2020 -Oct. 2025**, Ph.D. in Computer Science, City University of Hong Kong, Hong Kong.
+- **Sept. 2020 - Oct. 2025**, Ph.D. in Computer Science, City University of Hong Kong, Hong Kong.
 
 - **Jun. 2019 - Jul. 2019**, Summer Workshop at School of Computing, National University of Singapore, Singapore.
 
