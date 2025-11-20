@@ -25,9 +25,9 @@ I am currently an AI algorithm engineer at [**Unitree Robotics**](https://www.un
 
 - **May 2025**: &nbsp;🎉 Happy to announce that our paper [*CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models*](https://arxiv.org/pdf/2502.07225) has been accepted to **ICML 2025**. Many thanks to my collaborators for their great contributions!
 
-- **Apr. 2025**: &nbsp;🎉 Happy to announce that our paper [*Improve Fluency Of Neural Machine Translation Using Large Language Models*]() has been accepted to **MT Summit 2025**. Many thanks to my collaborators for their great contributions!
+- **Apr. 2025**: &nbsp;🎉 Happy to announce that our paper [*Improve Fluency Of Neural Machine Translation Using Large Language Models*]() has been accepted to **MT Summit 2025**. Many thanks to the project leader and my collaborators for their great contributions!
 
-- **Nov. 2024**: &nbsp;🎉 Happy to announce that our paper [*Protective Perturbations against Unauthorized Data Usage in Diffusion-based Image Generation*](https://arxiv.org/pdf/2412.18791) has been accepted to **CBD 2024**. Many thanks to the project leader and my collaborators for their great contributions!
+- **Nov. 2024**: &nbsp;🎉 Happy to announce that our paper [*Protective Perturbations against Unauthorized Data Usage in Diffusion-based Image Generation*](https://arxiv.org/pdf/2412.18791) has been accepted to **CBD 2024**. Many thanks to my collaborators for their great contributions!
 
 - **Sept. 2024**: &nbsp;🎉 Happy to announce that our paper [*Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process*](https://arxiv.org/pdf/2306.03436.pdf) has been accepted to **WISE 2024**. Many thanks to my collaborators for their great contributions!
 
