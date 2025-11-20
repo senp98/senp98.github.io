@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an AI algorithm engineer at [**Unitree Robotics**](https://www.unitree.com/), where I focus on developing reliable and generalizable systems for heterogeneous robotic embodiments. I received my Ph.D. degree in the CS department from City University of Hong Kong **(CityU)**, under the supervision of [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/), and my B.E. degree in CSE department from the Southern University of Science and Technology **(SUSTech)**, supervised by [Prof. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
+I am currently an AI algorithm engineer at [**Unitree Robotics**](https://www.unitree.com/), where I focus on developing reliable and generalizable systems for heterogeneous robotic embodiments. I received my Ph.D. degree in the CS department from City University of Hong Kong **(CityU)**, fortunately supervised by [Prof. Xiaohua Jia](https://www.cs.cityu.edu.hk/~jia/), and my B.E. degree in the CSE department from Southern University of Science and Technology **(SUSTech)**, fortunately supervised by [Prof. Xin Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
 
 
 # 🔥 News
