@@ -18,7 +18,12 @@
     gtag('js', new Date());
     gtag('config', 'G-02L6K60G91');
   </script>
+  <link rel="preload" href="fonts/lato-regular.woff2" as="font" type="font/woff2" crossorigin>
   <style>
+    @font-face { font-family: "Lato"; font-style: normal; font-weight: 400; font-display: swap; src: url("fonts/lato-regular.woff2") format("woff2"); }
+    @font-face { font-family: "Lato"; font-style: italic; font-weight: 400; font-display: swap; src: url("fonts/lato-italic.woff2") format("woff2"); }
+    @font-face { font-family: "Lato"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/lato-semibold.woff2") format("woff2"); }
+    @font-face { font-family: "Lato"; font-style: normal; font-weight: 700; font-display: swap; src: url("fonts/lato-bold.woff2") format("woff2"); }
     :root {
       --paper: #ffffff;
       --ink: #1d1d1f;
@@ -34,9 +39,12 @@
       margin: 0;
       background: var(--paper);
       color: var(--ink);
-      font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
-      font-size: 15.5px;
-      line-height: 1.6;
+      font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.62;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizeLegibility;
     }
     a { color: var(--link); text-decoration: none; }
     a:hover { color: var(--link-hover); }
@@ -45,7 +53,7 @@
 
     /* header */
     .intro { display: grid; grid-template-columns: 1fr 190px; gap: 40px; align-items: center; }
-    h1 { font-size: 34px; font-weight: 500; letter-spacing: -0.01em; margin: 0 0 14px; text-align: center; }
+    h1 { font-size: 36px; font-weight: 400; letter-spacing: 0.01em; margin: 0 0 16px; text-align: center; }
     .intro p { margin: 0 0 12px; }
     .contact { text-align: center; margin-top: 18px; }
     .contact a { white-space: nowrap; }
@@ -54,7 +62,7 @@
 
     /* sections */
     section { margin-top: 44px; }
-    h2 { font-size: 21px; font-weight: 600; margin: 0 0 14px; padding-bottom: 6px; border-bottom: 1px solid var(--rule); }
+    h2 { font-size: 22px; font-weight: 400; margin: 0 0 14px; padding-bottom: 6px; border-bottom: 1px solid var(--rule); }
 
     .entry { display: grid; grid-template-columns: 1fr auto; gap: 4px 24px; margin-bottom: 14px; }
     .entry .where { font-weight: 600; }
@@ -76,7 +84,7 @@
     }
     .pub .title { font-weight: 600; display: block; margin-bottom: 2px; }
     .pub .authors, .pub .venue, .pub .links, .pub .tldr { display: block; }
-    .pub .authors strong { font-weight: 600; }
+    .pub .authors strong { font-weight: 700; }
     .pub .venue { font-style: italic; }
     .pub .links { margin-top: 2px; }
     .pub .tldr { margin-top: 6px; color: var(--muted); }
@@ -102,11 +110,14 @@
       <h1>Sen Peng</h1>
       <p>
         I am an AI algorithm engineer at <a href="https://www.unitree.com/">Unitree Robotics</a>,
-        focused on deploying advanced robot policies on real hardware.
-        Previously, I received my B.E. from <a href="https://www.sustech.edu.cn/en/">SUSTech</a>
-        and my Ph.D. from <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>,
-        where I worked with <a href="https://www.cs.cityu.edu.hk/~jia/">Prof. Xiaohua Jia</a>
-        on AI security, with a focus on diffusion models.
+        working on the deployment of advanced robot policies on real hardware.
+      </p>
+      <p>
+        I received my B.E. in Computer Science and Technology from
+        <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>
+        and my Ph.D. in Computer Science from <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>,
+        advised by <a href="https://www.cs.cityu.edu.hk/~jia/">Prof. Xiaohua Jia</a>.
+        My doctoral research focused on AI security, particularly the security of diffusion models.
       </p>
       <p class="contact">
         <a href="mailto:senpengeden@gmail.com">Email</a> <span class="sep">/</span>
@@ -125,7 +136,7 @@
     <div class="entry">
       <span class="where">Unitree Robotics, Hangzhou</span>
       <span class="when">Nov 2025 – Present</span>
-      <span class="what">AI Algorithm Engineer, robot policy deployment.</span>
+      <span class="what">AI Algorithm Engineer. Deployment of robot policies on real hardware.</span>
     </div>
   </section>
 
